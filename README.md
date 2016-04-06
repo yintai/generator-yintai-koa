@@ -21,7 +21,7 @@ $ mkdir new-project && cd $_
 Finally, initiate the generator:
 
 ```
-$ yo koa-serve
+$ yo yintai-koa
 ```
 
 ## Start
@@ -43,7 +43,7 @@ $ npm test
 ## add ad view
 
 ```
-$ yo koa-serve:view
+$ yo yintai-koa:view
 ```
 
 
@@ -60,7 +60,6 @@ $ yo koa-serve:view
     │   └── log         project log
     │   └── middelware  framework needed mw
     │   └── gulp-plugin
-
     │
     ├── controllers
     │   └── index.js    controller
@@ -96,4 +95,4 @@ See [**Koa Examples**](https://github.com/koajs/examples/)
 
 ## License
 
-[MIT License](http://en.wikipedia.org/wiki/MIT_License) @ addison
+[MIT License](http://en.wikipedia.org/wiki/MIT_License) @yintai
